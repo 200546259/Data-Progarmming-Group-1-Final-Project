@@ -31,7 +31,7 @@ To get started with the Crime Data Analysis Dashboard, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/crime-data-dashboard.git
+    [git clone https://github.com/your-username/crime-data-dashboard.git](https://github.com/200546259/Data-Progarmming-Group-1-Final-Project.git)
     ```
 
 2. Navigate to the project directory:
