@@ -73,7 +73,7 @@ Insert screenshots or GIFs showcasing different views of your dashboard.
 
 
 ### YouTube Presentation Link
-[Watch the Group Presentation on YouTube](https://www.youtube.com/watch?v=5E_I7tJXsh4)
+[[Watch the Group Presentation on YouTube](https://www.youtube.com/watch?v=5E_I7tJXsh4](https://www.youtube.com/watch?v=fdoer_xZtvk))
 
 ### OneDrive Presentation Link
 [View the Group Presentation on OneDrive](https://drive.google.com/file/d/1oC4C2WyYj-557508cXiDpLxMkggPM6Hd/view)
