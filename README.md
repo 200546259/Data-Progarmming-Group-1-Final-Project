@@ -70,7 +70,4 @@ Insert screenshots or GIFs showcasing different views of your dashboard.
 - Navjot Singh
 - Gaurav Rauthan
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
